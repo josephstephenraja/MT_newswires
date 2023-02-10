@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the admin can enter the text in login text box</description>
+   <name>tc_01_To check LogIn Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a16d02c-70d3-47cf-bd39-5f9ade30c80c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4eb5f85b-9fe6-42f9-bc02-bce4050800c0</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Testdata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4eb5f85b-9fe6-42f9-bc02-bce4050800c0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName1</value>
+      <variableId>cbb7619e-b4e3-4759-8c3a-117ab6f688a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbb7619e-b4e3-4759-8c3a-117ab6f688a0</id>
+      <masked>false</masked>
+      <name>UserName1</name>
+   </variable>
+</TestCaseEntity>

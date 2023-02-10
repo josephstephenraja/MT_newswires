@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "78B387B320E65A9706737FF48A27BE6C",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": [
+        {
+          "name": "toLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_To check LogIn Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec3e64a-a9c3-499c-b2b5-0ed82e89617e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1d9baff0-bf19-4b49-ade2-28fd75c858d5</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Testdata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1d9baff0-bf19-4b49-ade2-28fd75c858d5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password2</value>
+      <variableId>085d576b-5aac-4e87-9f71-6d1ef6d83b21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>085d576b-5aac-4e87-9f71-6d1ef6d83b21</id>
+      <masked>false</masked>
+      <name>Password2</name>
+   </variable>
+</TestCaseEntity>
